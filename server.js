@@ -7,6 +7,7 @@ const cors = require("cors");
 app.use(cors())
 
 app.use("/api", router)
+app.use("/api", require("./routes/articlesBySlug"))
 
 app.listen(PORT, () => {
     console.log("server started")
