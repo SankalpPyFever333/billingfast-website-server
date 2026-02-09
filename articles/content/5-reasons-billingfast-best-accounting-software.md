@@ -1,35 +1,21 @@
-BillingFast has been recognized as one of the best online accounting software
-for Indian small businesses. Here are the top 5 reasons to use BillingFast
-accounting software.
+BillingFast has been recognized as one of the best online accounting software for Indian small businesses. Here are the top 5 reasons to use BillingFast accounting software.
 
 ## 1. Amazingly Simple to Use
 
-BillingFast is designed keeping non-accountants in mind. It avoids using
-accounting jargon so that anyone in the organization can use it without any
-training.
+BillingFast is designed keeping non-accountants in mind. It avoids using accounting jargon so that anyone in the organization can use it without any training.
 
 ## 2. Unique Features
 
-Apart from creating invoices, users can create 'Sales Orders' to manage orders
-that span longer period of time. BillingFast also offers projects, documents,
-strong support for inventory management and more.
+Apart from creating invoices, users can create 'Sales Orders' to manage orders that span longer period of time. BillingFast also offers projects, documents, strong support for inventory management and more.
 
 ## 3. Built for the Entire Team
 
-Normally, its only one person who manages the accounting for small business.
-People from other departments like Sales provide him bills, expense receipts and
-then he manually enters each transaction. BillingFast tries to break this
-culture by providing tools that bring the entire team together.
+Normally, its only one person who manages the accounting for small business. People from other departments like Sales provide him bills, expense receipts and then he manually enters each transaction. BillingFast tries to break this culture by providing tools that bring the entire team together.
 
 ## 4. One Business on App
 
-Advantage of using one application instead of multiple software is huge. It
-reduces duplication, saves time and saves money too. It also reduces the
-maintenance cost as there is nothing to install.
+Advantage of using one application instead of multiple software is huge. It reduces duplication, saves time and saves money too. It also reduces the maintenance cost as there is nothing to install.
 
 ## 5. Super Responsive Support
 
-BillingFast understands the importance of customer support very well and
-integrates it right into the application. Users can chat with support executives
-instantly without having to open any ticket or make a phone call. This kind of
-quick and responsive support is not provided by any other application.
+BillingFast understands the importance of customer support very well and integrates it right into the application. Users can chat with support executives instantly without having to open any ticket or make a phone call. This kind of quick and responsive support is not provided by any other application.
