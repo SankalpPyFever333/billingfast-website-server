@@ -5,6 +5,8 @@
 Over 10,000 businesses utilize BillingFast daily for invoice creation, expense
 monitoring, and tax documentation.
 
+![BillingFast Dashboard on Safari](/assets/images/mac/dashboard-in-safari.png)
+
 BillingFast combines powerful capabilities with the streamlined design
 principles characteristic of Apple products. It's the perfect accounting
 solution for Mac users who want professional-grade financial management without
@@ -15,6 +17,8 @@ compromising on user experience.
 Generate polished invoices and track pending payments effortlessly with
 BillingFast.
 
+![Invoicing Software](/assets/images/mac/invoicing-software.png)
+
 - Create beautiful, professional invoices in minutes
 - Track pending payments and send reminders automatically
 - Accept digital payments through credit/debit cards, net banking, and digital
@@ -22,10 +26,14 @@ BillingFast.
 - Automatic accounting entries upon payment receipt
 - Customize invoice templates to match your brand
 
+![Payment Link on Invoice](/assets/images/mac/payment-link-on-invoice.png)
+
 ## Expense Monitoring
 
 Keep track of every rupee going out of your business with powerful expense
 tracking features.
+
+![Expense Tracking](/assets/images/mac/expenses.png)
 
 - Analyze spending patterns with actionable insights
 - Record future bills for better cash flow management
@@ -36,6 +44,8 @@ tracking features.
 ## Tax Compliance
 
 Stay compliant with Indian tax regulations without the hassle.
+
+![Tax Calculations](/assets/images/mac/tax-compliance.png)
 
 - Calculate tax obligations quickly across service tax, VAT, and similar
   categories
@@ -48,6 +58,8 @@ Stay compliant with Indian tax regulations without the hassle.
 
 Track the complete product lifecycle from acquisition through distribution.
 
+![Inventory Management](/assets/images/mac/inventory-management.png)
+
 - **Stock Control**: Monitor inventory levels in real-time
 - **Purchase Documentation**: Manage purchase orders and vendor bills
 - **Sales Orders**: Track orders from creation to fulfillment
@@ -57,6 +69,8 @@ Track the complete product lifecycle from acquisition through distribution.
 ## Business Intelligence Features
 
 Make data-driven decisions with powerful analytics and reporting.
+
+![Customer Analytics](/assets/images/mac/customer-analytics.png)
 
 - **Identify Most Profitable Products**: Know which products drive your revenue
 - **Monitor Slow-Moving Inventory**: Reduce losses from unsold stock and
@@ -69,6 +83,8 @@ Make data-driven decisions with powerful analytics and reporting.
 
 BillingFast is designed to work seamlessly on your Mac, giving you a native-like
 experience right in your browser.
+
+![BillingFast on MacBook Air](/assets/images/mac/billingfast-macbook-air.jpg)
 
 ### Browser-Based Convenience
 
