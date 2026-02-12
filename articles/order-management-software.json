@@ -1,0 +1,17 @@
+{
+  "id": "order-management-software",
+  "title": "Online Order Management Software That Simplifies The Fulfilment Process",
+  "slug": "order-management-software",
+  "meta": {
+    "description": "Track sales orders and manage deliveries with BillingFast order management software. Complete sales order management system for growing businesses.",
+    "keywords": ["order management software", "sales orders", "order fulfillment", "delivery management", "BillingFast", "inventory system"]
+  },
+  "category": "News & Events",
+  "tags": ["BillingFast", "Order Management", "Sales Orders", "Fulfillment", "Small Business"],
+  "coverImage": "/assets/images/order-management/dashboard.png",
+  "excerpt": "Track sales orders and manage deliveries using our simple ordering management system. BillingFast puts you in control of your order workflow.",
+  "publishedAt": "2026-02-12T11:30:00Z",
+  "readTime": 5,
+  "featured": false,
+  "status": "published"
+}

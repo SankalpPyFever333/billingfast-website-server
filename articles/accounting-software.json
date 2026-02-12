@@ -1,0 +1,17 @@
+{
+  "id": "accounting-software",
+  "title": "Free Accounting Software For Small Business Owners",
+  "slug": "accounting-software",
+  "meta": {
+    "description": "BillingFast is 100% free accounting software for small businesses. Simplify invoicing, inventory tracking, and reporting without accounting knowledge.",
+    "keywords": ["free accounting software", "small business accounting", "BillingFast", "invoicing", "expense tracking", "bookkeeping"]
+  },
+  "category": "News & Events",
+  "tags": ["BillingFast", "Accounting Software", "Free Software", "Small Business", "Bookkeeping"],
+  "coverImage": "/assets/images/accounting/dashboard.png",
+  "excerpt": "100% FREE accounting software. BillingFast simplifies business accounting, invoicing, inventory tracking and reporting. Trusted by 75,000+ businesses.",
+  "publishedAt": "2026-02-12T10:30:00Z",
+  "readTime": 7,
+  "featured": true,
+  "status": "published"
+}

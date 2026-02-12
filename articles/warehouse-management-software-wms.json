@@ -1,0 +1,17 @@
+{
+  "id": "warehouse-management-software-wms",
+  "title": "Warehouse Management Software That Simplifies The Fulfilment Process",
+  "slug": "warehouse-management-software-wms",
+  "meta": {
+    "description": "Track sales orders and manage deliveries with BillingFast WMS. Complete warehouse management system for multi-location inventory control.",
+    "keywords": ["warehouse management software", "WMS", "inventory fulfillment", "multi-warehouse", "BillingFast", "stock management"]
+  },
+  "category": "News & Events",
+  "tags": ["BillingFast", "Warehouse Management", "WMS", "Inventory", "Fulfillment"],
+  "coverImage": "/assets/images/wms/dashboard.png",
+  "excerpt": "Track sales orders and manage deliveries using our simple warehouse management system (WMS). Manage multiple locations with ease.",
+  "publishedAt": "2026-02-12T12:30:00Z",
+  "readTime": 6,
+  "featured": false,
+  "status": "published"
+}
